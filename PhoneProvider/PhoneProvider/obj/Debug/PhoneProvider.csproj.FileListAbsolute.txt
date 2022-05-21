@@ -1,0 +1,7 @@
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\obj\Debug\PhoneProvider.csprojAssemblyReference.cache
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\obj\Debug\PhoneProvider.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\bin\Debug\PhoneProvider.exe.config
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\bin\Debug\PhoneProvider.exe
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\bin\Debug\PhoneProvider.pdb
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\obj\Debug\PhoneProvider.exe
+C:\Users\Alexandra\source\repos\PhoneProvider\PhoneProvider\obj\Debug\PhoneProvider.pdb
